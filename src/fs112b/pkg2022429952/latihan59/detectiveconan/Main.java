@@ -8,9 +8,9 @@ package fs112b.pkg2022429952.latihan59.detectiveconan;
 import java.util.Scanner;
 /**
  * @author
- * NAMA     : Muhammad Aldi wijaya
- * KELAS    : PBO2
- * NIM      : 2022428931
+ * NAMA     : Eggi Firman Saputra
+ * Kelas    : PBO/ FS112B
+ * NIM      : 2022429952
  * Deskripsi Program :  PILTER - pilih karakter dengan menggunakan multilevel inheritance dan polimorphism
  * mengenai kasus 'karakter anime Detective Conan'
  *
